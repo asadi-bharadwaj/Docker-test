@@ -6,6 +6,6 @@ import org.springframework.stereotype.Service;
 public class TestService {
 
     public String healthCheck(){
-        return "Success 200 OK";
+        return "I am service 1 and my session Id is : ";
     }
 }
